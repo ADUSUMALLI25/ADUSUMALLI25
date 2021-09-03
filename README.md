@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ADUSUMALLI25
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently learning data science and how to analysis data.
-- 💞️ I’m looking to collaborate on open sorce
+- 💞️ I’m looking to collaborate on open source that can give me too learn new things.
 - 📫 How to reach me adusumalli.dinesh@gmail.com
 
 
